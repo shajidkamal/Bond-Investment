@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\InputReader\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project2">
+				<Option output="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/cmake-build-debug/Project2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project2/fast">
+				<Option output="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/cmake-build-debug/Project2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="InputReader">
+				<Option output="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/cmake-build-debug/InputReader/libInputReader.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/cmake-build-debug/InputReader"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/InputReader/Makefile&quot;  VERBOSE=1 InputReader"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/InputReader/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/InputReader/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/InputReader/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="InputReader/fast">
+				<Option output="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/cmake-build-debug/InputReader/libInputReader.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/cmake-build-debug/InputReader"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/InputReader/Makefile&quot;  VERBOSE=1 InputReader/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/InputReader/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/InputReader/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shajidkamal/Desktop/Proj\ 2\ sub\ folder/1540006/cmake-build-debug/InputReader/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Algorithm.cpp">
+			<Option target="Project2"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Algorithm.hpp">
+			<Option target="Project2"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Date.cpp">
+			<Option target="Project2"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Date.hpp">
+			<Option target="Project2"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/CSVInputReader.cpp">
+			<Option target="InputReader"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/CSVInputReader.hpp">
+			<Option target="InputReader"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/FixedWidthInputReader.hpp">
+			<Option target="InputReader"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/InputField.cpp">
+			<Option target="InputReader"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/InputField.hpp">
+			<Option target="InputReader"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/InputReader.cpp">
+			<Option target="InputReader"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/InputReader.hpp">
+			<Option target="InputReader"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/TSVInputReader.cpp">
+			<Option target="InputReader"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/TSVInputReader.hpp">
+			<Option target="InputReader"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/StoreInput.cpp">
+			<Option target="Project2"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/StoreInput.hpp">
+			<Option target="Project2"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Strategy.cpp">
+			<Option target="Project2"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Strategy.hpp">
+			<Option target="Project2"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/main.cpp">
+			<Option target="Project2"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\InputReader\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

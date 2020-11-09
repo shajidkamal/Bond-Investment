@@ -1,0 +1,6 @@
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/cmake-build-debug/CMakeFiles/Project2.dir
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/cmake-build-debug/InputReader/CMakeFiles/rebuild_cache.dir
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/cmake-build-debug/InputReader/CMakeFiles/edit_cache.dir
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/cmake-build-debug/InputReader/CMakeFiles/InputReader.dir

@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/CSVInputReader.cpp
+CSVInputReader.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/CSVInputReader.hpp
+
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/CSVInputReader.hpp
+InputReader.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/InputReader.hpp
+
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/InputField.cpp
+string
+-
+ostream
+-
+InputField.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/InputField.hpp
+
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/InputField.hpp
+string
+-
+ostream
+-
+
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/InputReader.cpp
+exception
+-
+fstream
+-
+istream
+-
+memory
+-
+string
+-
+InputReader.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/InputReader.hpp
+CSVInputReader.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/CSVInputReader.hpp
+TSVInputReader.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/TSVInputReader.hpp
+
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/InputReader.hpp
+istream
+-
+memory
+-
+string
+-
+InputField.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/InputField.hpp
+
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/TSVInputReader.cpp
+TSVInputReader.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/TSVInputReader.hpp
+
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/TSVInputReader.hpp
+istream
+-
+memory
+-
+InputReader.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader/InputReader.hpp
+

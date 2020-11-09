@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libInputReader.a  CMakeFiles/InputReader.dir/CSVInputReader.cpp.o CMakeFiles/InputReader.dir/InputField.cpp.o CMakeFiles/InputReader.dir/InputReader.cpp.o CMakeFiles/InputReader.dir/TSVInputReader.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libInputReader.a

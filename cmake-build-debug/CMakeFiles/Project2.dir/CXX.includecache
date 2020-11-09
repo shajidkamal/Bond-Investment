@@ -1,0 +1,200 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../InputReader/FixedWidthInputReader.hpp
+InputReader.hpp
+../InputReader/InputReader.hpp
+array
+-
+fstream
+-
+
+../InputReader/InputField.hpp
+string
+-
+ostream
+-
+
+../InputReader/InputReader.hpp
+istream
+-
+memory
+-
+string
+-
+InputField.hpp
+../InputReader/InputField.hpp
+
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Algorithm.cpp
+Algorithm.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Algorithm.hpp
+Date.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Date.hpp
+algorithm
+-
+iostream
+-
+vector
+-
+StoreInput.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/StoreInput.hpp
+Strategy.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Strategy.hpp
+ctime
+-
+cmath
+-
+numeric
+-
+
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Algorithm.hpp
+utility
+-
+vector
+-
+Date.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Date.hpp
+
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Date.cpp
+Date.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Date.hpp
+array
+-
+string
+-
+iomanip
+-
+sstream
+-
+stdexcept
+-
+
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Date.hpp
+iostream
+-
+array
+-
+StoreInput.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/StoreInput.hpp
+
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/StoreInput.cpp
+StoreInput.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/StoreInput.hpp
+iostream
+-
+vector
+-
+InputReader.hpp
+-
+memory
+-
+FixedWidthInputReader.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/FixedWidthInputReader.hpp
+string
+-
+queue
+-
+
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/StoreInput.hpp
+iostream
+-
+vector
+-
+string
+-
+
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Strategy.cpp
+Strategy.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Strategy.hpp
+iostream
+-
+string
+-
+memory
+-
+utility
+-
+vector
+-
+InputReader.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader.hpp
+FixedWidthInputReader.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/FixedWidthInputReader.hpp
+StoreInput.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/StoreInput.hpp
+Date.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Date.hpp
+Algorithm.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Algorithm.hpp
+numeric
+-
+ctime
+-
+cmath
+-
+map
+-
+fstream
+-
+
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Strategy.hpp
+iostream
+-
+string
+-
+memory
+-
+vector
+-
+InputReader.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader.hpp
+FixedWidthInputReader.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/FixedWidthInputReader.hpp
+StoreInput.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/StoreInput.hpp
+Date.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Date.hpp
+Algorithm.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Algorithm.hpp
+numeric
+-
+ctime
+-
+map
+-
+
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/main.cpp
+iostream
+-
+string
+-
+memory
+-
+vector
+-
+InputReader.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/InputReader.hpp
+FixedWidthInputReader.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/FixedWidthInputReader.hpp
+StoreInput.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/StoreInput.hpp
+Date.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Date.hpp
+Algorithm.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Algorithm.hpp
+numeric
+-
+Strategy.hpp
+/Users/shajidkamal/Desktop/Proj 2 sub folder/1540006/Strategy.hpp
+ctime
+-
+map
+-
+fstream
+-
+
